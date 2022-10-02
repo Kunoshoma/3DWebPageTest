@@ -45,6 +45,7 @@ function SidebarRight(){
   return (
     <div className="sideR">
       <h1 className='sideTitle'>What I need <br/>to create this page</h1>
+      <p>このサイトは3Dモデル（テクスチャ除く）から<br/>メニューまで、久野翔馬の自作です。</p>
       <ul className="sideMain">
         <li className='langs'>Node.js</li>
         <li className='langs'>React</li>
